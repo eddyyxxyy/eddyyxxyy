@@ -6,4 +6,4 @@
 
 ---
 
-![https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg](https://www.linkedin.com/in/eeddyyxxyy/)
+[LinkedIn](https://www.linkedin.com/in/eeddyyxxyy/)
