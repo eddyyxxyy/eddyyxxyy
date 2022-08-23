@@ -6,4 +6,4 @@
 
 ---
 
-![](https://www.linkedin.com/in/eeddyyxxyy/)
+![LinkedIn](https://www.linkedin.com/in/eeddyyxxyy/)
