@@ -23,8 +23,8 @@
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eddyyxxyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyyxxyy&layout=compact&langs_count=7&theme=dark" alt="Edson-Pimenta-Most-Used-Languages"/>
+  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api?username=eddyyxxyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api/top-langs/?username=eddyyxxyy&layout=compact&langs_count=7&theme=dark" alt="Edson-Pimenta-Most-Used-Languages"/>
 </div>
 
 <div align="center"><br>
