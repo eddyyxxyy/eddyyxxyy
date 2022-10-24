@@ -8,14 +8,26 @@
 - 💞️ Looking to collaborate on software development and consultancy that cover security development as a whole.
 
 ---
+<div align="center">
+
+#### My certificates
+
+
+[Algorithms and programming logic](https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/)
+
+[Python](https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/)
+
+[Git and Github](https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/)
+
+---
+<div align="center">
 
 #### How to reach me?
 
-> Instagram | LinkedIn: @eeddyyxxyy 
-> 
-> e-mail: edson.tibo@gmail.com
+e-mail: edson.tibo@gmail.com
 
-<div align="center">
+Instagram | LinkedIn:
+
   <a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edson-Pimenta-Linkedin"></a>
   <a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Edson-Pimenta-Instagram"></a>
 </div>
