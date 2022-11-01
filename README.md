@@ -27,12 +27,11 @@
 
 #### My certificates
 
+<a href="https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/" target="_blanck">Algorithms and programming logic</a>
 
-[Algorithms and programming logic](https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/)
+<a href="https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/" target="_blanck">Python</a>
 
-[Python](https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/)
-
-[Git and GitHub](https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/)
+<a href="https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/" target="_blanck">Git and GitHub</a>
 
 </div>
 
