@@ -27,11 +27,13 @@
 
 #### My certificates
 
-<a href="https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/" target="_blanck">Algorithms and programming logic</a>
+<a href="https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/" target="_blank">Algorithms and programming logic</a>
 
-<a href="https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/" target="_blanck">Python</a>
+<a href="https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/" target="_blank">Python</a>
 
-<a href="https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/" target="_blanck">Git and GitHub</a>
+<a href="https://www.udemy.com/certificate/UC-4c364582-4d4a-454f-8bba-629a4eeaf600/" target="_blank">Concurrent and Assynchronous Python Programming</a>
+
+<a href="https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/" target="_blank">Git and GitHub</a>
 
 </div>
 
