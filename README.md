@@ -5,7 +5,7 @@
 <h2> 👋 Hello! </h2>
 
 - 😁 Hi! I’m Edson Pimenta.
-- 🐍 Fullstack Developer.
+- 🐍 Back-End Developer.
 - 👀 Interested in learning as much as I can and implement my knowledge in projects that contribute to people.
 - 🌱 Currently learning Python | PHP | JavaScript | SQL & NoSQL | Linux | Git.
 - 💞️ Looking to collaborate on software development and consultancy that cover security development as a whole.
