@@ -10,16 +10,11 @@
 - 🌱 Currently learning Python | PHP | JavaScript | SQL & NoSQL | Linux | Git.
 - 💞️ Looking to collaborate on software development and consultancy that cover security development as a whole.
 
-<div>
-
-  <img alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Edson-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="Edson-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img alt="Edson-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="Edson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="Edson-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,mysql,postgres,redis,mongodb,js,git&theme=dark" />
+  </a>
+</p>
 
 ---
 <div style="text-align: center">
@@ -45,10 +40,9 @@
 
 e-mail: edson.tibo@gmail.com
 
-Instagram | LinkedIn:
+LinkedIn:
 
 <a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edson-Pimenta-Linkedin"></a>
-<a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Edson-Pimenta-Instagram"></a>
 
 </div>
 
@@ -56,8 +50,8 @@ Instagram | LinkedIn:
 
 <div style="text-align: center">
 
-  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api?username=eddyyxxyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Edson-Pimenta-GitHub-Stats"/>
-  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api/top-langs/?username=eddyyxxyy&layout=compact&langs_count=7&theme=dark" alt="Edson-Pimenta-Most-Used-Languages"/>
+  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api?username=eddyyxxyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Edson-Pimenta-GitHub-Stats"/>
+  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api/top-langs/?username=eddyyxxyy&layout=compact&langs_count=7&theme=tokyonight" alt="Edson-Pimenta-Most-Used-Languages"/>
 
 </div>
 </div>
