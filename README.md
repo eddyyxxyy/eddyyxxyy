@@ -44,9 +44,11 @@ LinkedIn:
 
 <a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edson-Pimenta-Linkedin"></a>
 
-</div>
+Youtube Channel:
 
----
+<a href = "https://www.youtube.com/@eddyxide"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Edson-Pimenta-Youtube"></a>
+
+</div>
 
 ![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
