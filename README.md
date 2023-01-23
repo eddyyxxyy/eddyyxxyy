@@ -48,10 +48,5 @@ LinkedIn:
 
 ---
 
-<div style="text-align: center">
-
-  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api?username=eddyyxxyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Edson-Pimenta-GitHub-Stats"/>
-  <img height="160em" src="https://eddyyxxyy-stats.vercel.app/api/top-langs/?username=eddyyxxyy&layout=compact&langs_count=7&theme=tokyonight" alt="Edson-Pimenta-Most-Used-Languages"/>
-
-</div>
-</div>
+![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
