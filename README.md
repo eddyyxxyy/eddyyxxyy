@@ -41,6 +41,10 @@
 
 e-mail: edson.tibo@gmail.com
 
+All my links:
+
+<a href = "https://linktr.ee/eddyxide"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson-Pimenta-Linktree"></a>
+
 LinkedIn:
 
 <a href = "https://www.linkedin.com/in/eeddyyxxyy/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edson-Pimenta-Linkedin"></a>
