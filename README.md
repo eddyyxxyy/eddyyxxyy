@@ -7,12 +7,12 @@
 - 😁 Hi! I’m Edson Pimenta.
 - 🐍 Back-End Developer.
 - 👀 Interested in learning as much as I can and implement my knowledge in projects that contribute to people.
-- 🌱 Currently learning PHP | CakePHP | HTML/CSS | JavaScript | SQL & NoSQL | Linux | Git.
+- 🌱 Currently learning PHP | CakePHP | Python | Flask | C++ | HTML/CSS | JavaScript | Git.
 - 💞️ Looking to collaborate on software development and consultancy that cover security development as a whole.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,linux,mysql,postgres,redis,mongodb,js,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,php,linux,mysql,postgres,redis,mongodb,js,git&theme=dark" />
   </a>
 </p>
 
