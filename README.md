@@ -1,7 +1,6 @@
 <div>
 
 <a href = "https://github.com/eddyyxxyy"><img src = "https://komarev.com/ghpvc/?username=eddyyxxyy&color=blueviolet&style=social" alt="Edson-Pimenta-GitHub-Views"></a>
-<a href = "https://www.youtube.com/@eddyxide"><img src = "https://img.shields.io/youtube/channel/views/UCIISJihJOYOBj-4oZhW3pSw?color=black&logoColor=black" alt="Edson-Pimenta-Youtube-Views"></a>
 
 <h2> 👋 Hello! </h2>
 
