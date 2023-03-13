@@ -54,5 +54,5 @@ Youtube Channel:
 
 </div>
 
-![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only)
