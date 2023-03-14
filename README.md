@@ -24,20 +24,14 @@
   <p><a href="https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/" target="_blank">Git and GitHub</a></p>
 </div>
 
-<div align="middle">
+<div align="center">
     <h2>Stats and Meta</h2>
     <p>
-        <img align="left" src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-light-mode-only" alt="Estátisticas Gerais">
-        <img align="right" src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only" alt="Techs utilizadas nos projetos">
+        <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-light-mode-only" alt="Estátisticas Gerais">
+        <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only" alt="Techs utilizadas nos projetos">
+    <h3>How to reach me?</h3>
+      <h4>E-mail me or find me through my links:</h4>
+      <a href="mailto:edson.tibo@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a href = "https://linktr.ee/eddyxide"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson Pimenta's Linktree link"></a>
     </p>
-</div>
-
-<div align="middle">
-  <h3>How to reach me?</h3>
-
-  <h4>By e-mail:</h4>
-  <a href="mailto:edson.tibo@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-  <h4>Or through my links:</h4>
-  <a href = "https://linktr.ee/eddyxide"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson Pimenta's Linktree link"></a>
 </div>
