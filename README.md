@@ -5,7 +5,7 @@
 
   <h3>😁 Welcome to my Github Profile!</h3>
   <p>🧑‍💻 I'm a <strong>Full-Stack Developer</strong>.</p>
-  <p>🌱 Currently learning <strong>PHP | CakePHP | HTML/CSS | JavaScript | SEO | Cybersecurity</strong>.</p>
+  <p>🌱 Currently learning <strong>PHP | CakePHP | WordPress | HTML/CSS | JavaScript | SEO | Cybersecurity</strong>.</p>
   <p>👀 Interested in learning as much as I can and <strong>implement my knowledge in projects that contribute to people</strong>.</p>
   <p>💞️ Looking to <strong>collaborate on software development</strong> and consultancy that cover <strong>security and SEO in development</strong> as a whole.</p>
   <br>
