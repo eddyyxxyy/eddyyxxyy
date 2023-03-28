@@ -27,6 +27,9 @@
 <div align="center">
     <h2>Stats and Meta</h2>
     <p>
+        <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy/main/profile-3d-contrib/profile-green-animate.svg" alt="Estátisticas Gerais em 3D">
+    </p>
+    <p>
         <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/overview.svg#gh-light-mode-only" alt="Estátisticas Gerais">
         <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only" alt="Techs utilizadas nos projetos">
     <h3>How to reach me?</h3>
