@@ -5,13 +5,13 @@
 
   <h3>😁 Welcome to my Github Profile!</h3>
   <p>🧑‍💻 I'm a <strong>Full-Stack Developer</strong>.</p>
-  <p>🌱 Currently learning <strong>PHP | CakePHP | WordPress | HTML/CSS | JavaScript | SEO | Cybersecurity</strong>.</p>
+  <p>🌱 Currently learning <strong>PHP | CakePHP | WordPress | React.JS | Next.Js | SEO | Cybersecurity</strong>.</p>
   <p>👀 Interested in learning as much as I can and <strong>implement my knowledge in projects that contribute to people</strong>.</p>
   <p>💞️ Looking to <strong>collaborate on software development</strong> and consultancy that cover <strong>security and SEO in development</strong> as a whole.</p>
   <br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,php,linux,mysql,postgres,redis,mongodb,js,css,html,git&theme=dark" alt="Edson's Tech Skills" />
+      <img src="https://skillicons.dev/icons?i=php,py,react,next,linux,mysql,mongo,js,css,html,git&theme=dark" alt="Edson's Tech Skills" />
     </a>
   </p>
 </div>
@@ -19,6 +19,7 @@
 <div align="center">
   <h3>My Certificates</h3>
   <p><a href="https://www.udemy.com/certificate/UC-2857d9dc-315f-4bbd-bd6c-16033f6b4dab/" target="_blank">Algorithms and programming logic</a></p>
+  <p><a href="https://www.udemy.com/certificate/UC-5f8f9574-545b-4b9a-bab9-74038bafd242/" target="_blank">JavaScript</a></p>
   <p><a href="https://www.udemy.com/certificate/UC-614dd5b6-abd2-4321-b81b-23ea26669132/" target="_blank">Python</a></p>
   <p><a href="https://www.udemy.com/certificate/UC-4c364582-4d4a-454f-8bba-629a4eeaf600/" target="_blank">Concurrent and Assynchronous Python Programming</a></p>
   <p><a href="https://www.udemy.com/certificate/UC-e8443625-fee2-4568-8006-3bec6f47e61d/" target="_blank">Git and GitHub</a></p>
