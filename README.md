@@ -37,6 +37,6 @@
     <h3>How to reach me?</h3>
       <h4>E-mail me or find me through my links:</h4>
       <a href="mailto:dev.eddyyxxyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href = "https://linktr.ee/eddyxide"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson Pimenta's Linktree link"></a>
+      <a href = "https://eddyyxxyy.github.io/rocketseat/"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson Pimenta's Linktree link"></a>
     </p>
 </div>
