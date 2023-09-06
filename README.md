@@ -5,13 +5,13 @@
 
   <h3>😁 Welcome to my Github Profile!</h3>
   <p>🧑‍💻 I'm a <strong>Full-Stack Developer</strong>.</p>
-  <p>🌱 Currently learning <strong>PHP | CakePHP | WordPress | React.JS | Next.Js | SEO | Cybersecurity</strong>.</p>
+  <p>🌱 Currently learning <strong>HTML-CSS | Vanilla JS | NodeJS | React.JS | Next.Js | SEO | DevOps</strong>.</p>
   <p>👀 Interested in learning as much as I can and <strong>implement my knowledge in projects that contribute to people</strong>.</p>
-  <p>💞️ Looking to <strong>collaborate on software development</strong> and consultancy that cover <strong>security and SEO in development</strong> as a whole.</p>
+  <p>💞️ Looking to <strong>collaborate on software development</strong> and consultancy that cover <strong>implementation and SEO in Web Development</strong> as a whole.</p>
   <br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,py,react,next,linux,mysql,mongo,js,css,html,git&theme=dark" alt="Edson's Tech Skills" />
+      <img src="https://skillicons.dev/icons?i=php,py,react,next,linux,mysql,mongo,js,css,html,docker,nginx,git&theme=dark" alt="Edson's Tech Skills" />
     </a>
   </p>
 </div>
