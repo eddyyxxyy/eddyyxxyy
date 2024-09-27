@@ -5,13 +5,13 @@
 
   <h3>😁 Welcome to my Github Profile!</h3>
   <p>🧑‍💻 I'm a <strong>Full-Stack Developer</strong>.</p>
-  <p>🌱 Currently learning <strong>Astro | Tailwind CSS | React.JS | Next.Js | SEO | Estonian</strong>.</p>
+  <p>🌱 Currently specializing in <strong>NextJs | Astro | Tailwind CSS | React.JS | Nest | Golang</strong>.</p>
   <p>👀 Interested in learning as much as I can and <strong>implement my knowledge in projects that contribute to people</strong>.</p>
   <p>💞️ Looking to <strong>collaborate on software development</strong> and consultancy that cover <strong>implementation and SEO in Web Development</strong> as a whole.</p>
   <br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,py,astro,tailwind,react,next,linux,mysql,mongo,nodejs,js,css,html,docker,git&theme=dark" alt="Edson's Tech Skills" />
+      <img src="https://skillicons.dev/icons?i=astro,next,nest,tailwind,react,linux,postgresql,mongo,docker,git,go,php&theme=dark" alt="Edson's Tech Skills" />
     </a>
   </p>
 </div>
@@ -36,7 +36,14 @@
         <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only" alt="Techs utilizadas nos projetos">
     <h3>How to reach me?</h3>
       <h4>E-mail me or find me through my links:</h4>
-      <a href="mailto:dev.eddyyxxyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href = "https://eddyyxxyy.github.io/rocketseat/"><img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Edson Pimenta's Linktree link"></a>
+      <a href="mailto:dev.eddyyxxyy@gmail.com?">
+        <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <a href="https://www.edsonpimenta.net">
+        <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/eeddyyxxyy/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
     </p>
 </div>
