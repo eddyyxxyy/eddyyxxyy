@@ -36,7 +36,7 @@
         <img src="https://raw.githubusercontent.com/eddyyxxyy/eddyyxxyy-readme-stats/master/generated/languages.svg#gh-light-mode-only" alt="Techs utilizadas nos projetos">
     <h3>How to reach me?</h3>
       <h4>E-mail me or find me through my links:</h4>
-      <a href="mailto:edsonpimenta@gmail.com?">
+      <a href="mailto:dev.edsonpimenta@gmail.com?">
         <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
       <a href="https://www.edsonpimenta.net">
