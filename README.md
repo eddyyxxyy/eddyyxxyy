@@ -11,7 +11,7 @@
   <br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,slim,aws,astro,next,nest,tailwind,react,linux,postgresql,mongo,docker,git,python&theme=dark" alt="Edson's Tech Skills" />
+      <img src="https://skillicons.dev/icons?i=php,aws,astro,next,nest,tailwind,react,linux,postgresql,mongo,docker,git,python&theme=dark" alt="Edson's Tech Skills" />
     </a>
   </p>
 </div>
